@@ -1,2 +1,2 @@
 # ferb-latin
-Project made using funtranslations API
+JS Project made using funtranslations API
